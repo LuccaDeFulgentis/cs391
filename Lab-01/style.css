@@ -1,0 +1,28 @@
+.creepster-regular {
+  font-family: "Creepster", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 50px;
+  color: rgb(146, 9, 9);
+  
+}
+
+li {
+    font-family: "Creepster", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50px;
+    color: rgb(146, 9, 9);
+}
+div {
+    width:80vw;
+    margin: 0 auto;
+}
+
+main{
+    height:100vh;
+}
+
+body {
+    background-image: url("https://template.canva.com/EAFw2hsKYLw/1/0/1600w-hkVMrCGS5ts.jpg");
+}
